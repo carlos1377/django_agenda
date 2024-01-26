@@ -23,5 +23,8 @@
           },
     },
     "python.analysis.typeCheckingMode": "basic",
-    "cSpell.enabled": true
+    "cSpell.enabled": true,
+    "emmet.includeLanguages": {
+        "django-html": "html",
+   }
 }
